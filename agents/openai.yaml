@@ -1,0 +1,6 @@
+interface:
+  display_name: "Eyewear Ecommerce Image"
+  short_description: "Eyewear ecommerce image packs."
+  default_prompt: "Use $eyewear-ecommerce-image to create a guided ecommerce image package for these sunglasses."
+policy:
+  allow_implicit_invocation: true
