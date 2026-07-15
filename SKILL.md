@@ -60,6 +60,8 @@ Default package:
 
 Use image2 as the default generation/editing model when the environment exposes model selection. If image2 is not available, use the strongest available Codex image generation/editing capability and state the fallback in the task package or final notes.
 
+Final visual assets must be generated with an image model, not delivered as prompt-only or text-only plans. When the user asks to produce main images, detail-page images, scene images, or wearing images, call the available image generation/editing model directly. If high-resolution ecommerce zoom quality is needed and the environment provides an API-backed 4K or high-resolution image generation/editing interface, use that API path for final renders. If no image model or API generation path is available, state the blocker clearly instead of claiming the image has been generated.
+
 Prioritize Codex image generation/editing tools when available. If a requested image group cannot be reliably produced, output a task package and explain what extra material would improve the result.
 
 Use a mixed product strategy:
