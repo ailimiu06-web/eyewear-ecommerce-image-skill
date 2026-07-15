@@ -69,7 +69,7 @@ Use a mixed product strategy:
 
 Never invent parameter, material, certification, medical, lens-function, or package claims. If SKU data is missing, leave those areas blank, create a layout-only parameter image, or ask the user for the missing values.
 
-For wearing images, prefer user-uploaded digital human three-view images. If absent, generate fictional digital humans matched to the product audience. Default to close-up face, half-face, or head-and-shoulders crops so the eyewear is large enough to show frame shape, lens color, hinge, temple/arm details, and wearing fit. Avoid distant full-body wearing images unless the user explicitly asks for outfit or scene emphasis. Avoid celebrities, influencers, brand ambassadors, and identifiable real people unless the user provides rights-cleared material.
+For wearing images, prefer user-uploaded digital human three-view images. If absent, generate fictional digital humans matched to the product audience. Default to close-up face, half-face, or head-and-shoulders crops so the eyewear is large enough to show frame shape, lens color, hinge, temple/arm details, and wearing fit. The preferred scene-wearing perspective is a tight face-closeup commercial crop: face fills most of the frame, eyewear is the visual center, camera is near the model at slight front or front-45-degree angle, one temple side and hinge area remain visible, and background is shallow/secondary. Avoid distant full-body wearing images unless the user explicitly asks for outfit or scene emphasis. Avoid celebrities, influencers, brand ambassadors, and identifiable real people unless the user provides rights-cleared material.
 
 Product authenticity is the highest priority. Use the uploaded product image as the source of truth and preserve:
 

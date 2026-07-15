@@ -60,9 +60,11 @@ Avoid celebrities, influencers, brand ambassadors, and identifiable real people 
 
 Default wearing-image composition:
 
-- Use close-up face, half-face, or head-and-shoulders crops as the default.
-- Make the eyewear large enough to inspect frame shape, lens color, hinge, temple/arm details, and facial fit.
+- Use tight close-up face, half-face, or head-and-shoulders crops as the default.
+- Prefer a face-closeup commercial perspective: the face fills most of the frame, the eyewear is the visual center, the camera is close to the model, and the background stays shallow/secondary.
+- Make the eyewear large enough to inspect frame shape, lens color, lens gradient, rim thickness, hinge, temple/arm details, and facial fit.
 - Prefer slight front or front-45-degree face angles when they reveal both the frame front and temple/arm connection.
+- Keep at least one hinge/temple side visible whenever possible; avoid hair, hands, glare, or crop edges hiding the hinge and temple details.
 - Avoid distant full-body portraits, heavy hair occlusion, strong motion blur, or props that hide the frame, lenses, hinge, or temples unless the user explicitly prioritizes outfit/scene mood.
 
 Record digital human source as:
@@ -85,6 +87,7 @@ Automatically rework when possible:
 - Abnormal digital human anatomy.
 - Incorrect wearing position.
 - Wearing image too distant to inspect frame, lens, hinge, temple/arm details, or facial fit.
+- Wearing crop does not use the requested face-closeup perspective when the task is for scene wearing images.
 - Product/scene scale mismatch.
 
 ## Soft Review Items
